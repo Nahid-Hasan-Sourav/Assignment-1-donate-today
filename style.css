@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+/* BANNER-SECTION-START-HERE */
+#banner{
+    width: 100%;
+    color: white;
+}
+.banner{
+    background-image: url("/images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner .banner-text{
+    width: 700px;
+    font-weight: bolder;
+    
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.429); */
+    /* margin: 0 auto; */
+}
+.banner .banner-text h1{
+    font-size: 50px;
+    padding: 5px;
+}
+.banner-text p{
+    /* color: red; */
+    /* color: #FF5B40; */
+    margin-top: 20px;
+    padding: 5px;
+}
+.quote-person{
+    /* color: red; */
+   
+}
+.banner .banner-text .donate-btn{
+    margin-top:12px;
+    text-decoration: none;
+    background-color: #FF5B40;
+    display: inline-block;
+    padding: 10px 18px;
+    color: white;
+    border-radius: 4px;
+   
+}
+
+/* BANNER-SECTION-END-HERE */
