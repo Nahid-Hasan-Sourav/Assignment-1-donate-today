@@ -300,18 +300,26 @@
   /* padding: 9.666px 20px; */
 }
 footer{
-  background-color: #c4c6c6;
+  background-color: #000000;
   color: black;
   
-  height: 80px;
+  
   display: flex;
   flex-direction: column;
-  padding: 15px;
+  padding: 20px 15px;
   margin-bottom:0px;
   justify-content: center;
   align-items: center;
 
 }
+footer h1{
+  
+  font-family: 'Lobster', cursive;
+  margin: 15px 0px 10px;
+  color:#F96C43;
+}
 footer small{
   padding:3px;
+  color: white;
+  margin:2px 0px 20px 0px;
 }
