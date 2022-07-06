@@ -294,16 +294,14 @@
   padding: 8px 20px;
   display: inline-block;
   border: none;
-  background-color: #cccece;
-  
- 
+  background-color: #cccece; 
 }
 .email{
   /* padding: 9.666px 20px; */
 }
 footer{
-  background-color: rgba(0, 0, 0,0.6);
-  color: white;
+  background-color: #c4c6c6;
+  color: black;
   
   height: 80px;
   display: flex;
