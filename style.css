@@ -214,3 +214,40 @@
   margin-top: 10px;
   border-radius: 5px;
 }
+
+/* OUR UPDATE PART START HERE */
+
+.our-update-top-text{
+  width:600PX;
+  
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+
+}
+.our-update-bottom-field{
+  width:600PX;
+  text-align: center;
+  margin: 0 auto;
+  padding:50px 15px;
+  background-color: #fff4d6;
+}
+.our-update-bottom-field a{
+     background-color: #F96C43;
+     margin-left: -10px;
+      
+}
+
+#our-update{
+  padding: 20px 0px;
+}
+.update-field-btn{
+  
+  text-decoration: none; 
+  padding: 8px 20px;
+  display: inline-block;
+  border: none;
+  background-color: #cccece;
+  border-radius: 5px;
+ 
+}
