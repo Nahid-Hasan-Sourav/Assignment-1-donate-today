@@ -305,9 +305,13 @@ footer{
   
   height: 80px;
   display: flex;
-  padding: 10px;
+  flex-direction: column;
+  padding: 15px;
   margin-bottom:0px;
   justify-content: center;
   align-items: center;
 
+}
+footer small{
+  padding:3px;
 }
