@@ -13,6 +13,12 @@
 #banner {
   width: 100%;
   color: white;
+  height: 550px;
+ 
+}
+.banner-opacity{
+ 
+ 
 }
 .banner {
   background-image: url("images/donation13.jpg");
@@ -24,6 +30,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  
+  
 }
 .banner .banner-text {
   width: 700px;
@@ -242,12 +250,27 @@
   padding: 20px 0px;
 }
 .update-field-btn{
-  
+  font-size: 16px;
   text-decoration: none; 
   padding: 8px 20px;
   display: inline-block;
   border: none;
   background-color: #cccece;
-  border-radius: 5px;
+  
  
+}
+.email{
+  /* padding: 9.666px 20px; */
+}
+footer{
+  background-color: rgba(0, 0, 0,0.6);
+  color: white;
+  
+  height: 80px;
+  display: flex;
+  padding: 10px;
+  margin-bottom:0px;
+  justify-content: center;
+  align-items: center;
+
 }
